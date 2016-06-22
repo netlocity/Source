@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<jar-name>cspro.jar</jar-name>
+	<plugin-name>CSPRO_PLUGIN</plugin-name>
+	<plugin-desc>Capture Server Pro Plugin</plugin-desc>
+	<plugin-workflow-name>CSPRO_Plugin</plugin-workflow-name>
+	<plugin-service-instance>csproplugin</plugin-service-instance>
+	<method-name>execute</method-name>
+	<is-scripting>FALSE</is-scripting>
+	<back-up-file-name>N/A</back-up-file-name>
+	<script-name>N/A</script-name>
+	<application-context-path>applicationContext-cspro.xml</application-context-path>
+	<plugin-properties>
+		<plugin-property>
+			<name>SHARED_FOLDER_PATH</name>
+			<type>STRING</type>
+			<description>Batch data folder share</description>
+			<is-mandatory>TRUE</is-mandatory>
+			<is-multivalue>FALSE</is-multivalue>
+		</plugin-property>
+		<plugin-property>
+			<name>FINAL_DROP_FOLDER_PATH</name>
+			<type>STRING</type>
+			<description>Ephesoft final drop folder path</description>
+			<is-mandatory>TRUE</is-mandatory>
+			<is-multivalue>FALSE</is-multivalue>
+		</plugin-property>
+		<plugin-property>
+			<name>SYSTEM_BATCH_FOLDER_PATH</name>
+			<type>STRING</type>
+			<description>Ephesoft system folder</description>
+			<is-mandatory>TRUE</is-mandatory>
+			<is-multivalue>FALSE</is-multivalue>
+		</plugin-property>
+		<plugin-property>
+			<name>EPHESOFT_REST_SERVICE_URI</name>
+			<type>STRING</type>
+			<description>Ephesoft rest service uri</description>
+			<is-mandatory>TRUE</is-mandatory>
+			<is-multivalue>FALSE</is-multivalue>
+		</plugin-property>
+		<plugin-property>
+			<name>RELEASE_HOLD_URI</name>
+			<type>STRING</type>
+			<description>CSPro release hold uri</description>
+			<is-mandatory>TRUE</is-mandatory>
+			<is-multivalue>FALSE</is-multivalue>
+		</plugin-property>
+	</plugin-properties>
+	<dependencies>
+	</dependencies>
+</plugin>
