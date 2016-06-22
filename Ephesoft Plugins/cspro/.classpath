@@ -23,202 +23,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/activation-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/activiti-activiti-workflows.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/activiti-bpmn-converter-5.16.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/activiti-bpmn-model-5.16.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/activiti-engine-5.16.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/activiti-image-generator-5.16.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/activiti-process-validation-5.16.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/activiti-spring-5.16.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/alfresco-opencmis-extension-0.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/ant-1.7.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/antisamy-1.4.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/ant-launcher-1.7.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/antlr-2.7.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/aopalliance-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/asm-3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/aspectjrt-1.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/aspectjweaver-1.6.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/batik-1.5-fop-0.20-5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/batik-css-1.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/batik-ext-1.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/batik-util-1.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/bcpkix-jdk15on-1.48.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/bcprov-jdk15on-1.48.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/bsh-1.3.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/bsh-bsf-1.2b7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/bsh-core-2.0b4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/c3p0-0.9.0.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/cglib-2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/cglib-nodep-2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/chemistry-opencmis-client-api-0.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/chemistry-opencmis-client-bindings-0.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/chemistry-opencmis-client-impl-0.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/chemistry-opencmis-commons-api-0.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/chemistry-opencmis-commons-impl-0.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-beanutils-1.8.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-beanutils-core-1.8.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-cli-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-codec-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-collections-3.2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-compress-1.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-configuration-1.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-dbcp-1.2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-digester-1.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-email-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-fileupload-1.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-httpclient-3.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-httpclient-3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-io-2.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-lang-2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-lang3-3.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-lang3-3.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-logging-api-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-net-3.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-pool-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/commons-vfs-20100924-pentaho.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/dcma-twain-scanner-0.0.15-13-May-2015.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/ehcache-core-2.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/ehcache-explicitlocking-0.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/ehcache-spring-annotations-1.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/ejb3-persistence-1.0.2.GA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/ephesoft.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/esapi-2.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/eventbinder-1.0.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/freemarker-2.3.8.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/geronimo-spec-jta-1.0.1B-rc4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/gwt-codeserver-2.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/gwt-servlet-2.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/gwtx-1.5.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/gxt-3.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/gxt-chart-3.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/gxt-theme-neptune-3.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/hibernate-annotations-3.4.0.GA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/hibernate-commons-annotations-3.1.0.GA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/hibernate-core-3.3.0.SP1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/hibernate-entitymanager-3.4.0.GA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/hibernate-validator-4.1.0.Final.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/htmlcleaner-2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/icu4j-2.6.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/im4java-1.2.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/itextpdf-5.4.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/itext-pdfa-5.4.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/itext-xtra-5.4.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jackson-annotations-2.2.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jackson-core-2.2.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jackson-core-asl-1.7.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jackson-databind-2.2.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jackson-mapper-asl-1.7.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jai_core-1.1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jai_imageio-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jai-codec-1.1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jai-core-1.1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/janino-2.5.16.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/javassist-3.4.GA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/java-uuid-generator-3.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jaxb-api-2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jaxb-impl-2.1.11.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jaxen-1.1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jaxws-api-2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jaxws-rt-2.1.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jboss-common-core-2.2.5.GA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jboss-jca-api-1.5.0.CR2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jboss-logging-spi-2.0.5.GA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jcl-over-slf4j-1.7.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jdom-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jetty-6.1H.22.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jetty-util-6.1H.22.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jna-3.0.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jnotify-0.93.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/joda-time-2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jodconverter-core-3.0-beta-3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/js-1.7R2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jsch-0.1.46.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/json-20080701.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/json-simple-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jsr250-api-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jta-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jtds-1.2.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jtidy-r8-20060801.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jug-lgpl-2.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/juh-3.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/junit-4.8.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/jurt-3.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/kettle5-log4j-plugin-5.0.1-stable.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/kettle-core-5.0.1-stable.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/kettle-engine-5.0.1-stable.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/libbase-5.0.1-stable.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/libformula-5.0.1-stable.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/licensekey-1.0.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/lucene-core-3.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/lucene-queries-3.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/mail-1.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/mariadb-java-client-1.1.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/matheclipse-parser-0.0.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/metastore-5.0.1-stable.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/mimepull-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/mime-util-2.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/mvp4g-1.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/mybatis-3.2.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/mysql-connector-java-5.1.31-bin.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/nekohtml-1.9.12.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/ognl-2.6.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/ojdbc14-10.2.0.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/orai18n.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/org.moxieapps.gwt.uploader-1.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/org.osgi.core-1.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/persistence-api-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/poi-3.5-beta3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/poi-contrib-3.5-FINAL.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/quartz-1.8.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/resolver-20050927.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/ridl-3.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/saaj-api-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/saaj-impl-1.3.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/scannotation-1.0.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/secondstring-20060615.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/slf4j-api-1.7.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/slf4j-log4j12-1.7.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-aop-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-asm-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-aspects-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-beans-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-context-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-context-support-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-core-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-expression-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-instrument-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-jdbc-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-jms-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-orm-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-oxm-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-social-alfresco-0.2.7-RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-social-core-1.0.2.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-test-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-tx-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-web-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/spring-webmvc-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/sqljdbc4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/stax-api-1.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/stax-ex-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/streambuffer-0.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/unoil-3.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/validation-api-1.0.0.GA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/wstx-asl-3.2.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/xalan-2.7.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/xercesImpl-2.7.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/xml-apis-1.0.b2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/xml-apis-ext-1.3.04.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/xmlParserAPIs-2.6.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/xmlunit-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/xom-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/xpp3_min-1.1.3.4.O.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/xstream-1.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/xz-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Mark.Carter/workspace/cspro/Ephesoft Libraries/zxing-1.6.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Mark.Carter/.eclipse/httpclient-4.5.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Mark.Carter/.eclipse/httpclient-cache-4.5.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Mark.Carter/.eclipse/httpclient-win-4.5.1.jar"/>
@@ -228,5 +32,202 @@
 	<classpathentry kind="lib" path="C:/Users/Mark.Carter/.eclipse/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Mark.Carter/.eclipse/org.apache.commons.httpclient.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Mark.Carter/.eclipse/httpclient-4.3-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/activiti-activiti-workflows.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/activiti-bpmn-converter-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/activiti-bpmn-model-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/activiti-engine-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/activiti-image-generator-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/activiti-process-validation-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/activiti-spring-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/alfresco-opencmis-extension-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/antisamy-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/aspectjrt-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/aspectjweaver-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/batik-1.5-fop-0.20-5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/batik-css-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/batik-ext-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/batik-util-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/bcpkix-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/bcprov-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/bsh-bsf-1.2b7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/bsh-core-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/c3p0-0.9.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/chemistry-opencmis-client-api-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/chemistry-opencmis-client-bindings-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/chemistry-opencmis-client-impl-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/chemistry-opencmis-commons-api-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/chemistry-opencmis-commons-impl-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-compress-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-email-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-lang-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-net-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/commons-vfs-20100924-pentaho.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/dcma-twain-scanner-0.0.15-13-May-2015.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/ehcache-core-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/ehcache-explicitlocking-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/ehcache-spring-annotations-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/ejb3-persistence-1.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/ephesoft.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/esapi-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/eventbinder-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/freemarker-2.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/geronimo-spec-jta-1.0.1B-rc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/gwt-codeserver-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/gwt-servlet-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/gwtx-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/gxt-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/gxt-chart-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/gxt-theme-neptune-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/hibernate-annotations-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/hibernate-commons-annotations-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/hibernate-core-3.3.0.SP1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/hibernate-entitymanager-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/hibernate-validator-4.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/htmlcleaner-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/icu4j-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/im4java-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/itextpdf-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/itext-pdfa-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/itext-xtra-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jackson-core-asl-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jackson-mapper-asl-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jai_core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jai_imageio-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jai-codec-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jai-core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/janino-2.5.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/java-uuid-generator-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jaxb-impl-2.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jaxen-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jaxws-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jaxws-rt-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jboss-common-core-2.2.5.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jboss-jca-api-1.5.0.CR2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jboss-logging-spi-2.0.5.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jcl-over-slf4j-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jdom-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jetty-6.1H.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jetty-util-6.1H.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jna-3.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jnotify-0.93.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jodconverter-core-3.0-beta-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/js-1.7R2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jsch-0.1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jtidy-r8-20060801.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jug-lgpl-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/juh-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/jurt-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/kettle5-log4j-plugin-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/kettle-core-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/kettle-engine-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/libbase-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/libformula-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/licensekey-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/lucene-core-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/lucene-queries-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/mariadb-java-client-1.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/matheclipse-parser-0.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/metastore-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/mimepull-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/mime-util-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/mvp4g-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/mybatis-3.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/mysql-connector-java-5.1.31-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/nekohtml-1.9.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/ognl-2.6.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/ojdbc14-10.2.0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/orai18n.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/org.moxieapps.gwt.uploader-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/org.osgi.core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/poi-3.5-beta3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/poi-contrib-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/quartz-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/resolver-20050927.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/ridl-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/saaj-api-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/saaj-impl-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/scannotation-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/secondstring-20060615.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-aop-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-aspects-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-context-support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-expression-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-instrument-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-jdbc-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-jms-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-orm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-oxm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-social-alfresco-0.2.7-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-social-core-1.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-test-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-tx-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-web-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/spring-webmvc-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/stax-ex-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/streambuffer-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/unoil-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/wstx-asl-3.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/xalan-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/xmlunit-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/xom-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/xpp3_min-1.1.3.4.O.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/xstream-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/xz-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/cspro/Ephesoft Libraries/zxing-1.6.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
