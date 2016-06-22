@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/activiti-activiti-workflows.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/activiti-bpmn-converter-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/activiti-bpmn-model-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/activiti-engine-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/activiti-image-generator-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/activiti-process-validation-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/activiti-spring-5.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/alfresco-opencmis-extension-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/antisamy-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/aspectjrt-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/aspectjweaver-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/batik-1.5-fop-0.20-5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/batik-css-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/batik-ext-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/batik-util-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/bcpkix-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/bcprov-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/bsh-bsf-1.2b7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/bsh-core-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/c3p0-0.9.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/chemistry-opencmis-client-api-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/chemistry-opencmis-client-bindings-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/chemistry-opencmis-client-impl-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/chemistry-opencmis-commons-api-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/chemistry-opencmis-commons-impl-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-compress-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-email-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-lang-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-net-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/commons-vfs-20100924-pentaho.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/dcma-twain-scanner-0.0.15-13-May-2015.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/ehcache-core-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/ehcache-explicitlocking-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/ehcache-spring-annotations-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/ejb3-persistence-1.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/ephesoft.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/esapi-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/eventbinder-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/freemarker-2.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/geronimo-spec-jta-1.0.1B-rc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/gwt-codeserver-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/gwt-servlet-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/gwtx-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/gxt-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/gxt-chart-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/gxt-theme-neptune-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/hibernate-annotations-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/hibernate-commons-annotations-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/hibernate-core-3.3.0.SP1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/hibernate-entitymanager-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/hibernate-validator-4.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/htmlcleaner-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/httpclient-cache-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/httpclient-win-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/icu4j-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/im4java-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/itextpdf-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/itext-pdfa-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/itext-xtra-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jackson-core-asl-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jackson-mapper-asl-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jai_core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jai_imageio-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jai-codec-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jai-core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/janino-2.5.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/java-uuid-generator-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jaxb-impl-2.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jaxen-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jaxws-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jaxws-rt-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jboss-common-core-2.2.5.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jboss-jca-api-1.5.0.CR2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jboss-logging-spi-2.0.5.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jcl-over-slf4j-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jdom-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jetty-6.1H.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jetty-util-6.1H.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jna-3.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jnotify-0.93.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jodconverter-core-3.0-beta-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/js-1.7R2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jsch-0.1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jtidy-r8-20060801.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jug-lgpl-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/juh-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/jurt-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/kettle5-log4j-plugin-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/kettle-core-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/kettle-engine-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/libbase-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/libformula-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/licensekey-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/lucene-core-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/lucene-queries-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/mariadb-java-client-1.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/matheclipse-parser-0.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/metastore-5.0.1-stable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/mimepull-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/mime-util-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/mvp4g-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/mybatis-3.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/mysql-connector-java-5.1.31-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/nekohtml-1.9.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/ognl-2.6.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/ojdbc14-10.2.0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/orai18n.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/org.moxieapps.gwt.uploader-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/org.osgi.core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/poi-3.5-beta3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/poi-contrib-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/quartz-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/resolver-20050927.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/ridl-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/saaj-api-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/saaj-impl-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/scannotation-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/secondstring-20060615.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-aop-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-aspects-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-context-support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-expression-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-instrument-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-jdbc-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-jms-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-orm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-oxm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-social-alfresco-0.2.7-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-social-core-1.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-test-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-tx-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-web-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/spring-webmvc-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/stax-ex-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/streambuffer-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/unoil-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/wstx-asl-3.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/xalan-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/xmlunit-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/xom-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/xpp3_min-1.1.3.4.O.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/xstream-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/xz-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark.Carter/git/Ephesoft Plugins/onbase-export/Ephesoft Libraries/zxing-1.6.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
