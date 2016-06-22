@@ -54,7 +54,7 @@ public class NuxeoClientTest {
 		//getBatchInstanceId(document);
 		test();
 		
-		batchInstanceId = "BI37D";
+		batchInstanceId = "BI37A";
 		
 		//extracts the batch xml file from the zip file Ephesoft creates
 		extractBatchXML(SYSTEM_BATCH_FOLDER_PATH, batchInstanceId);
